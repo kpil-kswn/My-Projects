@@ -1,0 +1,5 @@
+Average R²: 0.7916 , Average MAE: 38.52 , Average MSE: 3958.31
+Average R²: 0.7954 , Average MAE: 37.73 , Average MSE: 3885.04
+Average R²: 0.7954 , Average MAE: 38.29 , Average MSE: 3886.57
+
+After above records values are directed to history_bi.csv
